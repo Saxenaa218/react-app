@@ -1,1 +1,9 @@
 @import '~antd/dist/antd.css';
+
+.h-inherit {
+    height: -webkit-fill-available;
+}
+
+.w-inherit {
+    width: -webkit-fill-available;
+}
